@@ -1,5 +1,9 @@
 package dsa.assignments.arrays.easy;
-
+    /*      1886. Determine Whether Matrix Can Be Obtained By Rotation
+            link:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+            Given two n x n binary matrices mat and target,
+            return true if it is possible to make mat equal to target by rotating mat in 90-degree increments, or false otherwise.
+    */
 public class Solution19 {
     public static void main(String[] args) {
        int[][] mat = {{0,1},{1,0}};
